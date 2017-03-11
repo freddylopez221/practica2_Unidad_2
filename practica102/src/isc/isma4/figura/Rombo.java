@@ -9,6 +9,18 @@ package isc.isma4.figura;
  *
  * @author Lopez
  */
-public class Rombo {
+public class Rombo extends Figura {
+    double D;
+    double d;
     
+    public Rombo (double D, double d){
+    this.D = D;
+    this.d = d;
+    
+    }
+    @Override
+    public double getArea(){
+        return (D*d)/2;
+    }
+            
 }

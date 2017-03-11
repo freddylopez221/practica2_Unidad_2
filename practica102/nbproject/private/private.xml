@@ -3,12 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Lopez/Documents/NetBeansProjects/practica102/src/isma4/Figura.java</file>
-            <file>file:/C:/Users/Lopez/Documents/NetBeansProjects/practica102/src/isma4/Rectangulo.java</file>
-            <file>file:/C:/Users/Lopez/Documents/NetBeansProjects/practica102/src/isma4/Triangulo.java</file>
-            <file>file:/C:/Users/Lopez/Documents/NetBeansProjects/practica102/src/isma4/IFigura.java</file>
-            <file>file:/C:/Users/Lopez/Documents/NetBeansProjects/practica102/src/isma4/Circulo.java</file>
-            <file>file:/C:/Users/Lopez/Documents/NetBeansProjects/practica102/src/isma4/Cuadrado.java</file>
+            <file>file:/C:/Users/Lopez/Documents/NetBeansProjects/practica102/src/isc/isma4/figura/Figura.java</file>
+            <file>file:/C:/Users/Lopez/Documents/NetBeansProjects/practica102/src/isc/isma4/figura/Funcion.java</file>
+            <file>file:/C:/Users/Lopez/Documents/NetBeansProjects/practica102/src/isc/isma4/figura/Rombo.java</file>
+            <file>file:/C:/Users/Lopez/Documents/NetBeansProjects/practica102/src/isc/isma4/figura/Pentagono.java</file>
+            <file>file:/C:/Users/Lopez/Documents/NetBeansProjects/practica102/src/isc/isma4/algoritmos/bubblesort.java</file>
+            <file>file:/C:/Users/Lopez/Documents/NetBeansProjects/practica102/src/isc/isma4/figura/Rectangulo.java</file>
+            <file>file:/C:/Users/Lopez/Documents/NetBeansProjects/practica102/src/isc/isma4/figura/Circulo.java</file>
+            <file>file:/C:/Users/Lopez/Documents/NetBeansProjects/practica102/src/isc/isma4/algoritmos/IAlgoritmo.java</file>
+            <file>file:/C:/Users/Lopez/Documents/NetBeansProjects/practica102/src/isc/isma4/figura/IFigura.java</file>
+            <file>file:/C:/Users/Lopez/Documents/NetBeansProjects/practica102/src/isc/isma4/estudiantes/estudiantes.java</file>
+            <file>file:/C:/Users/Lopez/Documents/NetBeansProjects/practica102/src/isc/isma4/figura/Elipse.java</file>
+            <file>file:/C:/Users/Lopez/Documents/NetBeansProjects/practica102/src/isc/isma4/figura/Cuadrado.java</file>
+            <file>file:/C:/Users/Lopez/Documents/NetBeansProjects/practica102/src/isc/isma4/figura/Hexagono.java</file>
         </group>
     </open-files>
 </project-private>
